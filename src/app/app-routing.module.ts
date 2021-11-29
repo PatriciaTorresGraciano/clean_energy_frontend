@@ -13,12 +13,8 @@ import { CategoriaDeletComponent } from './delet/categoria-delet/categoria-delet
 import { ProdutosUsuarioComponent } from './produtos-usuario/produtos-usuario.component';
 import { ProdutoEditComponent } from './edit/produto-edit/produto-edit.component';
 import { ProdutoDeletComponent } from './delet/produto-delet/produto-delet.component';
-<<<<<<< HEAD
 import { PerfilUsuarioComponent } from './perfil-usuario/perfil-usuario.component';
-=======
 import { DetalheCategoriaComponent } from './detalhe-categoria/detalhe-categoria.component';
->>>>>>> ed7a461046e372bda19f0b593c46f33a850f3634
-
 
 const routes: Routes = [
 
@@ -37,13 +33,8 @@ const routes: Routes = [
     {path: 'produtos-usuario', component: ProdutosUsuarioComponent},
     {path: 'produto-edit/:id', component: ProdutoEditComponent},
     {path: 'produto-delet/:id', component: ProdutoDeletComponent},
-<<<<<<< HEAD
     {path: 'perfil-usuario', component: PerfilUsuarioComponent},
-     
-=======
     {path: 'detalhecategoria/:id', component: DetalheCategoriaComponent}
-  
->>>>>>> ed7a461046e372bda19f0b593c46f33a850f3634
 ];
 @NgModule({
  imports: [RouterModule.forRoot(routes)],
