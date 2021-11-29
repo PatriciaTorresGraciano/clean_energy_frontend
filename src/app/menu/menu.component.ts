@@ -11,6 +11,7 @@ import { AuthService } from '../service/auth.service';
 export class MenuComponent implements OnInit {
 
   usuario: UsuarioModel = new UsuarioModel()
+  nome = environment.nome
   
   constructor(
     public auth: AuthService

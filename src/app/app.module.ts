@@ -25,7 +25,11 @@ import { ProdutoDeletComponent } from './delet/produto-delet/produto-delet.compo
 
 import { AlertComponent } from './alert/alert.component';
 import { OrderModule } from 'ngx-order-pipe';
+<<<<<<< HEAD
+import { PerfilUsuarioComponent } from './perfil-usuario/perfil-usuario.component';
+=======
 import { DetalheCategoriaComponent } from './detalhe-categoria/detalhe-categoria.component';
+>>>>>>> ed7a461046e372bda19f0b593c46f33a850f3634
 
 
 
@@ -45,15 +49,17 @@ import { DetalheCategoriaComponent } from './detalhe-categoria/detalhe-categoria
     CategoriaDeletComponent,
     CategoriaEditComponent,
     ProdutosUsuarioComponent,
-
     ProdutoEditComponent,
     ProdutoDeletComponent,
-
     AlertComponent,
+<<<<<<< HEAD
+    PerfilUsuarioComponent,
+=======
       DetalheCategoriaComponent,
 
     
 
+>>>>>>> ed7a461046e372bda19f0b593c46f33a850f3634
   ],
   imports: [
     BrowserModule,

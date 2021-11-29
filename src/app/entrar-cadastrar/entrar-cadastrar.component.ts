@@ -15,9 +15,10 @@ import { AuthService } from '../service/auth.service';
 export class EntrarCadastrarComponent implements OnInit {
 
 
- confirmarSenha: string
+  confirmarSenha: string
   usuario: UsuarioModel = new UsuarioModel
   credenciais: CredenciaisDTO = new CredenciaisDTO
+
   constructor(
 
     private authService: AuthService,

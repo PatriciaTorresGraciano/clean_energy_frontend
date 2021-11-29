@@ -74,11 +74,8 @@ export class ProdutosUsuarioComponent implements OnInit {
     console.log(this.categoriaProd)
   }
 
-
   logar(){
-  alert('Por favor, entre para poder solicitar um orçamento.')
+  alert('Por favor, entre para solicitar um orçamento.')
   }
   
-
-
 }

@@ -48,6 +48,14 @@ export class AuthService {
     return ok;
   }
 
+normal(){
+    let ok: boolean = false;
+    if (environment.tipo == '' && environment.token != ''){
+      ok = true;
+    }
+    return ok;
+  }
+
 sair(){
   environment.token = ''
   environment.nome = ''
