@@ -19,6 +19,7 @@
 
 .rodape a {
     text-decoration: none;
+    cursor: pointer;
 }
 .copy{
     background-color: #023047;
