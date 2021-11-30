@@ -34,8 +34,6 @@
     &nbsp;&nbsp;
   <img align="center" alt="mysql" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg">
    &nbsp;&nbsp;
-  <img align="center" alt="swagger" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg">
-   &nbsp;&nbsp;
 </div>
 
 <h4>🛠️ Ferramentas: </h4>
@@ -51,20 +49,16 @@
 <h4>💻 Cotribuidores: </h4>
   <ul>
     <li>
-      <a href="https://github.com/FreitasOliver">Everton</a>
+      <a href="https://github.com/riqueov">Henrique</a>
     </li>
     <li>
       <a href="https://github.com/heiitalo">Ítalo</a>
     </li>
-    <li>
-      <a href="https://github.com/leticialsouza">Letícia</a>
-    </li>
+  
       <li>
         <a href="https://github.com/PatriciaTorresGraciano">Patrícia</a>
       </li>
-      <li>
-        <a href="https://github.com/davansep">Priscila</a>
-      </li>
+     
       <li>
         <a href="https://github.com/RuanSDias">Ruan</a>
      </li>
@@ -72,4 +66,4 @@
  
 
 
-![ods7]()
+
