@@ -50,17 +50,19 @@
   <li>
     <a href="https://trello.com/b/dGkhc4AV/carrinho-social">Trello</a> - Utilizamos para organização do projeto.
   </li>
+  
   <li>
      <a href="https://discord.com/"> Discord</a> - Utilizamos para realizar reuniões.
  </li>
   
-    <li>
+ <li>
      <a href="https://www.figma.com/"> Figma</a> - Utilizamos para prototipação do site.
  </li>
   
-    <li>
-     <a href="https://github.com//">Git Hub</a> - Utilizamos para versionamento do código.
+ <li>
+     <a href="https://github.com/"> Git Hub</a> - Utilizamos para versionamento do código.
  </li>
+  
  </ul>
  
 
