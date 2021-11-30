@@ -39,7 +39,6 @@ this.confirmarSenha = event.target.value
 
 cadastrar(){
 
-
 if(this.usuario.senha != this.confirmarSenha){
 this.alert.showAlertDanger('Senhas não coincidem!')
 }else{
