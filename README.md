@@ -3,7 +3,7 @@
 </div>
 <br>  
 
- <a href="https://cleanenergy.netlify.app/#/inicio">
+ <a href="https://cleanenergy.netlify.app/#/inicio" target="_blank">
 	<p align="center">Clique aqui para visitar o site!</p>
  </a>
   
@@ -53,19 +53,19 @@
 <h2>🛠️ Ferramentas: </h2>
 <ul>
   <li>
-    <a href="https://trello.com/b/dGkhc4AV/carrinho-social">Trello</a> - Utilizamos para organização do projeto.
+    <a href="https://trello.com/" target="_blank">Trello</a> - Utilizamos para organização do projeto.
   </li>
   
   <li>
-     <a href="https://discord.com/"> Discord</a> - Utilizamos para realizar reuniões.
+     <a href="https://discord.com/" target="_blank"> Discord</a> - Utilizamos para realizar reuniões.
  </li>
   
  <li>
-     <a href="https://www.figma.com/"> Figma</a> - Utilizamos para prototipação do site.
+     <a href="https://www.figma.com/" target="_blank"> Figma</a> - Utilizamos para prototipação do site.
  </li>
   
  <li>
-     <a href="https://github.com/"> Git Hub</a> - Utilizamos para versionamento do código.
+     <a href="https://github.com/" target="_blank"> Git Hub</a> - Utilizamos para versionamento do código.
  </li>
   
  </ul>
@@ -76,10 +76,10 @@
 <table>
   
   <tr>
-    <td align="center"><a href="https://github.com/riqueov"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/85600482?v=4" width="100px;" alt=""/><br /><sub><b>Henrique Vitorino</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/heiitalo"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/89783369?v=4" width="100px;" alt=""/><br /><sub><b>Italo Vieira</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/PatriciaTorresGraciano"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/72994902?v=4" width="100px;" alt=""/><br /><sub><b>Patrícia Torres</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/RuanSDias"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/89783106?v=4" width="100px;" alt=""/><br /><sub><b>Ruan Dias</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/riqueov" target="_blank"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/85600482?v=4" width="100px;" alt=""/><br /><sub><b>Henrique Vitorino</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/heiitalo" target="_blank"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/89783369?v=4" width="100px;" alt=""/><br /><sub><b>Italo Vieira</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/PatriciaTorresGraciano" target="_blank"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/72994902?v=4" width="100px;" alt=""/><br /><sub><b>Patrícia Torres</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/RuanSDias" target="_blank"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/89783106?v=4" width="100px;" alt=""/><br /><sub><b>Ruan Dias</b></sub></a><br /></td>
   </tr>
 </table>
 
