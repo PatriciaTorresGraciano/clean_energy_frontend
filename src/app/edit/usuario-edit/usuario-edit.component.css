@@ -1,0 +1,25 @@
+.perfil {
+    align-items: center; 
+    height: 100vh;
+    justify-content: center;
+}
+
+#imgPerfil {
+    border-radius: 50%;
+    width: 200px;
+    
+}
+
+.editarIcone {
+    font-size: 24px;
+    color: green;
+}
+
+.deletarIcone {
+    font-size: 24px;
+    color: red;
+}
+
+.botoes {
+    text-align: right;
+}

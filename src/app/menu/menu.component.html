@@ -16,7 +16,7 @@
       <a class="nav-link pt-0 pb-0" routerLink='/inicio' >Início</a>
       <a class="nav-link pt-0 pb-0" routerLink='/sobre'>Sobre</a>
       <a class="nav-link pt-0 pb-0" routerLink='/produtos' routerLink='/produtos-usuario'>Produtos</a>
-      <a class="nav-link pt-0 pb-0" routerLink='/perfil-usuario'>Perfil</a>
+      <!-- <a [routerLink]= "['/usuario-edit', id]" href="#" type="submit" *ngIf="auth.logado()" class="nav-link pt-0 pb-0" >Perfil</a> -->
 
       <li *ngIf="auth.adm()" class="nav-item dropdown">
         <a class="nav-link dropdown-toggle pt-0 pb-0 text-dark" href="#" id="navbarDropdown" role="button"
@@ -24,12 +24,12 @@
           Adm
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-          <a class="nav-link text-dark" routerLink="/perfil">
+          <!-- <a class="nav-link text-dark" routerLink="/perfil">
             <span data-feather="bar-chart-2">
               <i class="fa fa-user mr-2" aria-hidden="true"></i>
             </span>
             Meu Perfil
-          </a>
+          </a> -->
           <div class="dropdown-divider"></div>
           <a class="nav-link text-dark" routerLink="/categorias">
             <span data-feather="bar-chart-2">
@@ -63,8 +63,9 @@
 
     </form>
     
-    <img class="iconeUsuario"src="../../assets/imagens/iconeUsuario.png">
-    <p class="login" routerLink='/entrar-cadastrar'>Faça login ou <span> <a class="cadastrar" routerLink="/entrar-cadastrar">Cadastre-se</a></span></p>
+    <a class="navbar-brand remove" href="#"><i class="fa fa-user-circle fa-lg" aria-hidden="true"></i></a>
+    <a *ngIf="auth.deslogado()" class="nav-link text-dark navbar-nav" routerLink='/entrar-cadastrar' href="#">Faça o login ou Cadastre-se</a>
+    <a *ngIf="auth.logado()" class="nav-link text-dark navbar-nav" routerLink='/entrar-cadastrar' href="#" (click)='sair()'>Olá {{usuario.nomeCompleto}}, clique aqui para sair. </a>
 
   </div>
 </nav>

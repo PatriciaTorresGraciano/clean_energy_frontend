@@ -29,6 +29,7 @@ import { OrderModule } from 'ngx-order-pipe';
 import { PerfilUsuarioComponent } from './perfil-usuario/perfil-usuario.component';
 
 import { DetalheCategoriaComponent } from './detalhe-categoria/detalhe-categoria.component';
+import { UsuarioEditComponent } from './edit/usuario-edit/usuario-edit.component';
 
 
 @NgModule({
@@ -52,6 +53,7 @@ import { DetalheCategoriaComponent } from './detalhe-categoria/detalhe-categoria
 
     PerfilUsuarioComponent,
       DetalheCategoriaComponent,
+      UsuarioEditComponent,
 
   
   ],
