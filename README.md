@@ -4,7 +4,7 @@
 <br>  
 
  <a href="https://cleanenergy.netlify.app/#/inicio" target="_blank">
-	<p align="center">Clique aqui para visitar o site!</p>
+	<p align="center">Clique aqui para visitar nosso site!</p>
  </a>
   
   
