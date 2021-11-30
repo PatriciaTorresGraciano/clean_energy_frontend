@@ -15,6 +15,7 @@ import { ProdutoEditComponent } from './edit/produto-edit/produto-edit.component
 import { ProdutoDeletComponent } from './delet/produto-delet/produto-delet.component';
 import { PerfilUsuarioComponent } from './perfil-usuario/perfil-usuario.component';
 import { DetalheCategoriaComponent } from './detalhe-categoria/detalhe-categoria.component';
+import { UsuarioEditComponent } from './edit/usuario-edit/usuario-edit.component';
 
 const routes: Routes = [
 
@@ -33,6 +34,7 @@ const routes: Routes = [
     {path: 'produtos-usuario', component: ProdutosUsuarioComponent},
     {path: 'produto-edit/:id', component: ProdutoEditComponent},
     {path: 'produto-delet/:id', component: ProdutoDeletComponent},
+    {path: 'usuario-edit/:id', component: UsuarioEditComponent},
     {path: 'perfil-usuario', component: PerfilUsuarioComponent},
     {path: 'detalhecategoria/:id', component: DetalheCategoriaComponent}
 ];

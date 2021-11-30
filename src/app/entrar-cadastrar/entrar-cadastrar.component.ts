@@ -18,6 +18,7 @@ export class EntrarCadastrarComponent implements OnInit {
   confirmarSenha: string
   usuario: UsuarioModel = new UsuarioModel
   credenciais: CredenciaisDTO = new CredenciaisDTO
+  tipoUser: string
 
   constructor(
 
