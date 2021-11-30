@@ -3,6 +3,11 @@
 </div>
 <br>  
 
+ <a href="https://cleanenergy.netlify.app/#/inicio">
+	<p align="center">Clique aqui para visitar o site!</p>
+ </a>
+  
+  
 <p align="center"> A Clean Energy surgiu como solução para o problema que enfrentamos, através de um e-commerce promovemos a aquisição de equipamentos com uso de energia renovável, como painéis solares, aquecedores de água, entre outros.</p>
 <br>
 
